@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/resources/views/kakutei.blade.php
 .env
 .phpunit.result.cache
 Homestead.json
